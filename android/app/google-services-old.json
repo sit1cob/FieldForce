@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293392342362",
+    "project_id": "fieldforce-searskairos",
+    "storage_bucket": "fieldforce-searskairos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293392342362:android:7600e4aad55cda78a16763",
+        "android_client_info": {
+          "package_name": "com.sears.kairos.fieldforcecc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJOLPdBRA80dIpoxh58bjGht_whFsdBGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# React Native
+*.orig
+*.jks
+*.keystore
+*.pem
+
+# Android (Gradle / build outputs)
+android/.gradle/
+android/local.properties
+android/**/build/
+android/app/.cxx/
+android/app/.externalNativeBuild/
+android/app/build/
+android/build/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Bundles / artifacts
+*.apk
+*.aab
+*.so
+*.zip
+
+# Logs
+*.log
