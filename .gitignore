@@ -27,9 +27,9 @@ android/build/
 .idea/
 
 # iOS
-
+ios/Pods/
 ios/build/
-
+*.xcworkspace
 
 # Fastlane
 fastlane/report.xml
